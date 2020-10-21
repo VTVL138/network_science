@@ -10,3 +10,4 @@ This package contains some really helpful functions for applied network science 
 * Neighborhood selection with various ways (First order neighbors)
 
 The functions are based on mainly  networkx, numpy, matplotlib.
+The examples and the theory of the algorithms are in the **networkscience_package_presentation.ipynb** notebook.
