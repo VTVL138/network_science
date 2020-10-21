@@ -1,6 +1,6 @@
 # Network science python package
 
-This package contains some realy helpful functions for applied network science from the next fields:
+This package contains some really helpful functions for applied network science from the next fields:
 
 * Degree distribution, cumulative distribution function, logarithmic binning
 * Degree correlation
